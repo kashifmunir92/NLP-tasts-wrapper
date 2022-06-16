@@ -1,0 +1,10 @@
+# PyTorch
+http://maven.qizhidao.net:8081/repository/local-pypl/packages/torch/1.7.0+cu110/torch-1.7.0+cu110-cp37-cp37m-linux_x86_64.whl
+# progress bars in model download and training scripts
+tqdm
+# Accessing files from S3 directly.
+boto3
+# Used for downloading models over HTTP
+requests
+# For OpenAI GPT
+regex
